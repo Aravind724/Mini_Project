@@ -23,7 +23,7 @@
  techniques, we can develop accurate and reliable predictive models that help buyers, sellers,
  and dealers make informed decisions.
 
- ![Output1_ss]()
+ ![Output1_ss](https://github.com/Aravind724/Mini_Project/blob/0f50d46abbc24e940c3515a9075062efa8bbfbbf/Output1_ss.jpg)
 
  ![Output_ss]()
 
