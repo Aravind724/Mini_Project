@@ -25,6 +25,6 @@
 
  ![Output1_ss](https://github.com/Aravind724/Mini_Project/blob/0f50d46abbc24e940c3515a9075062efa8bbfbbf/Output1_ss.jpg)
 
- ![Output_ss]()
+ ![Output_ss](https://github.com/Aravind724/Mini_Project/blob/1dbf95d76f655125a7426584de11daee26448cbe/Output_ss.jpg)
 
 
