@@ -22,3 +22,9 @@
  selection and hyperparameter tuning. By leveraging machine learning algorithms and
  techniques, we can develop accurate and reliable predictive models that help buyers, sellers,
  and dealers make informed decisions.
+
+ ![Output1_ss]()
+
+ ![Output_ss]()
+
+
